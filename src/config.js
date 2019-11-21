@@ -1,4 +1,7 @@
 export default {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_y66tL9ifz9HkHATX1YJiVHsa00mSpwbatp",
+  
   s3: {
     REGION: "us-east-1",
     BUCKET: "slessprnotes"
